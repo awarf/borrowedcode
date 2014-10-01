@@ -3,13 +3,13 @@
   <head>
     <meta charset="UTF-8">
     <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
-    <title>Hello World! This is Ally's Page!</title>
+    <title>Page Title: Site Name</title>
   </head>
  <div>
 <h1>
- <a href="https://www.facebook.com/ally.warf.3">Look Me Up on Facebook.</a>
+<img src="http://www.neurofield.org/wp-content/uploads/2014/06/nf-bg.jpg" alt="Star Filled Sky"  height="200" width="1600" />
+<p class="tagline">Hello World! This is Ally's Page!</p>
  </h1>
- <p class="tagline">An Introduction to Me</p>
  <ul class="accessibility">
  <li><a href="#Extracurricular">Jump to Extracurricular</a>
  </li>
@@ -58,7 +58,7 @@ human need, I envision possibilities to create optimal human experiences. </p>
 
     <div class="module" id="module3">
       <h3>Bullet points to my life.</h3>
-	  <img src="http://www.neurofield.org/wp-content/uploads/2014/06/nf-bg.jpg" alt="Star Filled Sky"  height="200" width="1550" />
+	  
       <ul id="logos">
         <li>Line 1</li>
         <li>Line 2</li>
@@ -72,13 +72,13 @@ human need, I envision possibilities to create optimal human experiences. </p>
 	<div id="main">
 	      <article class="us-congress">
 	        <header class="title">
-	          <h2>US Congress</h2>
+	          <h2>Aside Menu</h2>
 	        </header>
 	       
 	      </article>
         <aside>
-          <div class="public">
-            <h3>Public</h3>
+          <div class="title">
+            <h3>Title</h3>
             <ul>
               <li><a href="#">Side bar menu under consturction</a></li>
 
@@ -87,8 +87,6 @@ human need, I envision possibilities to create optimal human experiences. </p>
          
         </aside>
       </div>
-
-   
 
     <div class="module" id="module5">
       <h3>Contact Us</h3>
